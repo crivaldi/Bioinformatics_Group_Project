@@ -10,5 +10,7 @@ When completed the students' forked repos should contain:
 6. Scripts contiaing the code required to generate the above files and results.
 7. Files and scripts required to address the short answer questions 1 & 2.
 8. A word document with answers to:
+
 	A. The qualitative comparsion of your results with Kihns and Pluznick 2017.
+
 	B. Answers to short answer questions 1 & 2
